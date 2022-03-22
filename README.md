@@ -1,10 +1,15 @@
-![splash-min](https://user-images.githubusercontent.com/61861940/147894582-30f0b076-6647-46b2-b731-1a9535b19aa9.jpg)
-<p align="center">Start building your own custom Mona Space using our official template</p>
+![splash-min](https://cdn.discordapp.com/attachments/946848913552465940/954557065953689660/CC_Express_20220318_2148370.8397924230325788.png)
+<p align="center">PageDAO Library of Alexandria Metaverse Meetup space</p>
+
+# To test it out
+> go to https://mona.gallery/playground in your browser
+> download the *Exports/Playground Files* Folder and once downloaded, drag the folder onto the open browser window  
+
+# To Build
 
 ## ⬇️ Unity Version
 This template requires the ```Unity 2020.3.18``` version. You can download it here:
 https://unity3d.com/unity/whats-new/2020.3.18
-
 
 ## 📃 Documentation
 
