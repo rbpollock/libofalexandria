@@ -2,8 +2,7 @@
 <p align="center">PageDAO Library of Alexandria Metaverse Meetup space</p>
 
 # To test it out
-> go to https://mona.gallery/playground in your browser
-> download the *Exports/Playground Files* Folder and once downloaded, drag the folder onto the open browser window  
+* https://www.mona.gallery/spaces/xpsVKhCeX8Zp?invite=T0Rjd05UWTVOUTp1cw
 
 # To Build
 
